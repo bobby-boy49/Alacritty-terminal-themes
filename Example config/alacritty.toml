@@ -1,0 +1,23 @@
+
+import = [
+"~/.config/alacritty/google.darker.amber.toml"
+]
+
+[window]
+
+#dimensions = { columns = 1, lines = 1 }
+
+#position = { x = 1, y = 1 }
+
+#padding = { x = 0, y = 0 }
+
+#dynamic_padding = true
+
+#decorations = "None"   # "Full" | "None" | "Transparent" | "Buttonless"
+
+opacity = 1.0
+
+[font]
+
+size = 12.25
+
